@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 
-carpeta_imagenes = 'breakdance'
+carpeta_imagenes = 'breakdance_pics'
 i = 0
 while True:
     cadena = ''
